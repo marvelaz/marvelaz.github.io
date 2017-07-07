@@ -1,3 +1,17 @@
-p {
+h1 {
     text-align: center;
   }
+
+#p_1{
+      color: blue;
+      font-weight: bold;
+    }
+
+.list_elements{
+        text-align: left;
+        list-style-type: none;
+      }
+      
+body {
+  font-size: 20px;
+}
